@@ -29,5 +29,5 @@ Sigue estos pasos para ejecutar el proceso correctamente:
 2. Ejecutar proceso: Haz doble clic en el archivo ejecutable duplicados.bat ubicado en la raíz del proyecto.
 3. Obtener resultados: El archivo resultante, nombrado como CLIENTES_DUPLICADOS_[timestamp].xlsx, se generará automáticamente en la ruta ./src/tmp/.
 
-
+Carlos Santiago Martinez Contreras - Calle 80
 
